@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\bin\Debug\netcoreapp3.1\Files_StreamReader.exe
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\bin\Debug\netcoreapp3.1\Files_StreamReader.deps.json
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\bin\Debug\netcoreapp3.1\Files_StreamReader.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\bin\Debug\netcoreapp3.1\Files_StreamReader.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\bin\Debug\netcoreapp3.1\Files_StreamReader.dll
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\bin\Debug\netcoreapp3.1\Files_StreamReader.pdb
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.dll
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.pdb
+C:\Users\Rohit Dasari\source\repos\Files_StreamReader\obj\Debug\netcoreapp3.1\Files_StreamReader.genruntimeconfig.cache
