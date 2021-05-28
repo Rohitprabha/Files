@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\bin\Debug\netcoreapp3.1\Files_DirectoryInfo.exe
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\bin\Debug\netcoreapp3.1\Files_DirectoryInfo.deps.json
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\bin\Debug\netcoreapp3.1\Files_DirectoryInfo.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\bin\Debug\netcoreapp3.1\Files_DirectoryInfo.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\bin\Debug\netcoreapp3.1\Files_DirectoryInfo.dll
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\bin\Debug\netcoreapp3.1\Files_DirectoryInfo.pdb
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\obj\Debug\netcoreapp3.1\Files_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\obj\Debug\netcoreapp3.1\Files_DirectoryInfo.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\obj\Debug\netcoreapp3.1\Files_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\obj\Debug\netcoreapp3.1\Files_DirectoryInfo.dll
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\obj\Debug\netcoreapp3.1\Files_DirectoryInfo.pdb
+C:\Users\Rohit Dasari\source\repos\Files_DirectoryInfo\obj\Debug\netcoreapp3.1\Files_DirectoryInfo.genruntimeconfig.cache
