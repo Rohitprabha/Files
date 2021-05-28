@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\bin\Debug\netcoreapp3.1\Files_TextWriter.exe
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\bin\Debug\netcoreapp3.1\Files_TextWriter.deps.json
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\bin\Debug\netcoreapp3.1\Files_TextWriter.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\bin\Debug\netcoreapp3.1\Files_TextWriter.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\bin\Debug\netcoreapp3.1\Files_TextWriter.dll
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\bin\Debug\netcoreapp3.1\Files_TextWriter.pdb
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.dll
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.pdb
+C:\Users\Rohit Dasari\source\repos\Files_TextWriter\obj\Debug\netcoreapp3.1\Files_TextWriter.genruntimeconfig.cache
