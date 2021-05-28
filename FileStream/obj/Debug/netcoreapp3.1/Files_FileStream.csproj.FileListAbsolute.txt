@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\bin\Debug\netcoreapp3.1\Files_FileStream.exe
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\bin\Debug\netcoreapp3.1\Files_FileStream.deps.json
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\bin\Debug\netcoreapp3.1\Files_FileStream.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\bin\Debug\netcoreapp3.1\Files_FileStream.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\bin\Debug\netcoreapp3.1\Files_FileStream.dll
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\bin\Debug\netcoreapp3.1\Files_FileStream.pdb
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.dll
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.pdb
+C:\Users\Rohit Dasari\source\repos\Files_FileStream\obj\Debug\netcoreapp3.1\Files_FileStream.genruntimeconfig.cache
