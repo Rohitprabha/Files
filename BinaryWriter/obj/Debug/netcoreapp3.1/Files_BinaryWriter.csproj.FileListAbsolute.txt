@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\bin\Debug\netcoreapp3.1\Files_BinaryWriter.exe
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\bin\Debug\netcoreapp3.1\Files_BinaryWriter.deps.json
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\bin\Debug\netcoreapp3.1\Files_BinaryWriter.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\bin\Debug\netcoreapp3.1\Files_BinaryWriter.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\bin\Debug\netcoreapp3.1\Files_BinaryWriter.dll
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\bin\Debug\netcoreapp3.1\Files_BinaryWriter.pdb
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.dll
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.pdb
+C:\Users\Rohit Dasari\source\repos\Files_BinaryWriter\obj\Debug\netcoreapp3.1\Files_BinaryWriter.genruntimeconfig.cache
