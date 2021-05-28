@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\bin\Debug\netcoreapp3.1\Files_TextReader.exe
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\bin\Debug\netcoreapp3.1\Files_TextReader.deps.json
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\bin\Debug\netcoreapp3.1\Files_TextReader.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\bin\Debug\netcoreapp3.1\Files_TextReader.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\bin\Debug\netcoreapp3.1\Files_TextReader.dll
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\bin\Debug\netcoreapp3.1\Files_TextReader.pdb
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.dll
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.pdb
+C:\Users\Rohit Dasari\source\repos\Files_TextReader\obj\Debug\netcoreapp3.1\Files_TextReader.genruntimeconfig.cache
